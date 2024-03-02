@@ -1,0 +1,1 @@
+https://github.com/youurt/german_clickbaits_tensorflow_js/blob/main/01_Datenaquise/ROHDATEN.csv
